@@ -19,7 +19,7 @@ A simple and intuitive ToDo List Android application built with Kotlin. It allow
 ## Installation
 
 1. Clone the repo:  
-   `git clone https://github.com/yourusername/todoapp.git`
+   `git clone https://github.com/dilakemer/todoapp.git`
 
 2. Open the project in Android Studio.
 
