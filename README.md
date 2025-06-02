@@ -14,6 +14,7 @@ A simple and intuitive ToDo List Android application built with Kotlin. It allow
 
 ## Screenshots
 ![splash_screen](https://github.com/user-attachments/assets/17396b33-9784-4e9d-9df9-c43558491d79)
+![view_tasks](https://github.com/user-attachments/assets/fcd2edf1-6775-4e08-8ff9-5e483d6c9638)
 
 
 
