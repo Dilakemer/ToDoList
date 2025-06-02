@@ -19,47 +19,32 @@ A simple and intuitive ToDo List Android application built with Kotlin. It allow
 ## 📸 Screenshots
 
 ### Splash Screen  
-![Splash Screen](screenshots/splash.png)
+![splash_screen](splash_screen.png)
 
 ### View Tasks  
-![View Tasks](screenshots/view_tasks.png)
+![view_tasks](view_tasks.png)
 
 ### Delete Task  
-![Delete Task](screenshots/delete_tasks.png)
+![delete_tasks](after_delete_task.png)
 
 ### Update Task  
-![Update Task](screenshots/update_tasks.png)
+![update_tasks](update_task.png)
 
 ### After Update  
-![After Update](screenshots/after_update_task.png)
+![after_update_task](after_update_task.png)
 
 ### Search Task  
-![Search Task](screenshots/search_task.png)
+![search_task](search_task.png)
 
 ### Add Task  
-![Add Task](screenshots/add_task.png)
+![add_task](add_task.png)
 
 ### After Adding  
-![After Add Task](screenshots/after_add_task.png)
+![after_add_task](after_add_task.png)
 
 ---
 
 ## 🚀 Installation
-
-```bash
-git clone https://github.com/dilakemer/todoapp.git
-
-
-## Screenshots
-![splash_screen](splash_screen.png)
-![view_tasks](view_tasks.png)
-![delete_tasks](after_delete_task.png)
-![update_tasks](update_task.png)
-![after_update_task](after_update_task.png)
-![search_task](search_task.png)
-![add_task](add_task.png)
-![after_add_task](after_add_task.png)
-## Installation
 
 1. Clone the repo:  
    `git clone https://github.com/dilakemer/todoapp.git`
