@@ -1,16 +1,54 @@
-# ToDo App
+# ✅ ToDo App
 
-A simple and intuitive ToDo List Android application built with Kotlin. It allows users to add, update, delete, and search tasks with a smooth and modern UI experience.
+A simple and intuitive ToDo List Android application built with Kotlin. It allows users to **add**, **update**, **delete**, and **search tasks** with a smooth and modern UI experience.
 
-## Features
+---
 
-- Add new tasks with title and description
-- Update or delete existing tasks
-- Search tasks dynamically
-- Animated splash screen using Lottie
-- Responsive and user-friendly dialogs for input
-- Data persistence with Room database
-- Real-time input validation and feedback
+## ✨ Features
+
+- ✅ Add new tasks with title and description  
+- 🔁 Update or delete existing tasks  
+- 🔍 Search tasks dynamically  
+- 🎬 Animated splash screen using Lottie  
+- 🧾 Responsive and user-friendly dialogs for input  
+- 🗂️ Data persistence with Room database  
+- 🛡️ Real-time input validation and feedback  
+
+---
+
+## 📸 Screenshots
+
+### Splash Screen  
+![Splash Screen](screenshots/splash.png)
+
+### View Tasks  
+![View Tasks](screenshots/view_tasks.png)
+
+### Delete Task  
+![Delete Task](screenshots/delete_tasks.png)
+
+### Update Task  
+![Update Task](screenshots/update_tasks.png)
+
+### After Update  
+![After Update](screenshots/after_update_task.png)
+
+### Search Task  
+![Search Task](screenshots/search_task.png)
+
+### Add Task  
+![Add Task](screenshots/add_task.png)
+
+### After Adding  
+![After Add Task](screenshots/after_add_task.png)
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/dilakemer/todoapp.git
+
 
 ## Screenshots
 ![splash_screen](splash_screen.png)
