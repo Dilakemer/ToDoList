@@ -72,7 +72,7 @@ A simple and intuitive ToDo List Android application built with Kotlin. It allow
 - `SplashActivity`: Shows the animated splash screen on app start.
 - `MainActivity`: Handles displaying, adding, updating, deleting, and searching tasks.
 - `TaskViewModel`: Manages task data operations and state.
-- `TaskRVVBListAdapter`: RecyclerView adapter for displaying the list of tasks.
+- `TaskRVVBListAdapter`: RecyclerView adapter for displaying the list of tasks
 
 ## Contributing
 
