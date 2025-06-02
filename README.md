@@ -13,7 +13,7 @@ A simple and intuitive ToDo List Android application built with Kotlin. It allow
 - Real-time input validation and feedback
 
 ## Screenshots
-![splash_screen](https://github.com/user-attachments/assets/17396b33-9784-4e9d-9df9-c43558491d79)
+
 ![view_tasks](view_tasks.png)
 ![delete_tasks](after_delete_task.png)
 ![update_tasks](update_task.png)
