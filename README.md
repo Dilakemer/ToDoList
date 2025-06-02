@@ -19,6 +19,8 @@ A simple and intuitive ToDo List Android application built with Kotlin. It allow
 ![update_tasks](update_task.png)
 ![after_update_task](after_update_task.png)
 ![search_task](search_task.png)
+![add_task](add_task.png)
+![after_add_task](after_add_task.png)
 ## Installation
 
 1. Clone the repo:  
